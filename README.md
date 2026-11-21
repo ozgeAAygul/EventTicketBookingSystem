@@ -1,5 +1,7 @@
 # Event Ticket Booking System
 
+![CI](https://github.com/ozgeAAygul/EventTicketBookingSystem/actions/workflows/ci.yml/badge.svg)
+
 A Java console application for booking event tickets, applying purchase discounts, cancelling reservations, and reporting on active bookings. Built by Özge Aygül as an individual learning project, originally inspired by a group assignment.
 
 ## Features
